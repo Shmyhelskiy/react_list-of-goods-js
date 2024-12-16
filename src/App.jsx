@@ -3,7 +3,7 @@ import './App.scss';
 import cn from 'classnames';
 
 import { useState } from 'react';
-import GoodList from '../components/GoodList/GoodList';
+import GoodList from './components/GoodList/GoodList';
 
 const goodsFromServer = [
   'Dumplings',
