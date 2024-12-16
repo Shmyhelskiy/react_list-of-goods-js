@@ -34,7 +34,7 @@ function getPreparedGoods(goods, { sortField, isReverse }) {
         return good1.length - good2.length;
       }
 
-      return preparedGoods;
+      return 0;
     });
   }
 
